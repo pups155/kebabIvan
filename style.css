@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-color: lightcoral;
+}
+
+h1 {
+    text-align: center;
+    background-color: lightblue;
+
+}
+h2{
+    text-align: center;
+    background-color: lightgreen;
+}
+
+img{
+    width: 200px;
+    border: 10px black solid;
+}
+
+p{
+    width: 200px;
+    height: 100px;
+}
+
+section{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+h3{
+    background-color: lightcyan;
+}
+
+footer{
+ background-color: aquamarine;
+}
